@@ -126,13 +126,14 @@ nav a:hover {
 
 /* ===== Tips Section ===== */
 .tips {
-     background-image:url("valentin-ufjI0V-mtoc-unsplash.jpg") ; 
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh;
-  width: 100%;
-  margin-top: 0;
+    background-image: url("images/valentin-ufjI0V-mtoc-unsplash.jpg"); 
+    background-size: cover;  
+    background-position: center;
+    min-height: 100vh;
+    width: 100%;
+    margin-top: 0;
 }
+
 
 /* ===== Form Container ===== */
 .container {
