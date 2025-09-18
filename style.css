@@ -126,7 +126,7 @@ nav a:hover {
 
 /* ===== Tips Section ===== */
 .tips {
-  background-image: url("https://via.placeholder.com/1920x1080"); /* Replace with correct URL */
+     background-image:url("valentin-ufjI0V-mtoc-unsplash.jpg") ; 
   background-size: cover;
   background-position: center;
   min-height: 100vh;
